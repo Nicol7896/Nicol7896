@@ -11,6 +11,6 @@ Here I share my projects, reflecting everything I've discovered along the way as
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=#F6E05E alt="Node" />
+  <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js alt="Node" />
   
 </p>
