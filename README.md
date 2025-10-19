@@ -12,5 +12,5 @@ Here I share my projects, reflecting everything I've discovered along the way as
   <img src="https://img.shields.io/badge/GitHub%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-blue?style=for-the-badge&logo=node.js" alt="Node" />
-  
+  <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql" alt="mysql"/>
 </p>
