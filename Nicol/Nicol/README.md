@@ -1,18 +1,10 @@
 <h1 align="center">👋 Hola, my name is Nicol Dayyana Cabrera Nieto @Nicol7896</h1>
 <img src="https://github.com/Nicol7896/Nicol7896/blob/main/Nicol/Nicol/Portada.png" />
-<strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
+<strong>I'm a full-stack developer, a creative person, and always eager to learn something new. I love turning ideas into real-life projects.
+Here I share my projects, reflecting everything I've discovered along the way as a developer.</strong>
 <br/>
 <br/>
-<h2>✏️ About me</h2>
-<ul>
-  <li>💙🧡 I'm currently representing, expanding and teaching the Arbitrum technologies and ecosistem at the <a href="https://arbitrum.foundation/">Arbitrum Foundation</a>.</li>
-  <li>💚 I've been ambassador at Platzi in the Ethereum Developer Program.</li>
-  <li>🎤 You cand find me always organizing tech events for the community and speaking about the future in this industry.</li>
-  <li>🫂 Ask me about education, Blockchain & Web3, or whatever you want, I'm here to help and grow together.</li>
-</ul>
-
 <h2>⚒️ Some of my projects</h2>
-
 <h3>🔔 Push Protocol</h3>
 <li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/" target="_blank">push.org</a></li>
 
