@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, my name is Joel Diaz Arévalo @joelesdar</h1>
-<img src="https://raw.githubusercontent.com/joelesdar/joelesdar/main/Banner-Joelesdar.jpg" />
+<h1 align="center">👋 Hola, my name is Nicol Dayyana Cabrera Nieto @Nicol7896</h1>
+<img src="https://github.com/Nicol7896/Nicol7896/blob/main/Nicol/Nicol/Portada.png" />
 <strong>I am a Frontend developer, speaker, community builder, and passionate, proactive, and creative educator. Convinced as a Latin American that our region will be a global powerhouse in technology, I focus my work on creating initiatives for collective growth and developing high-quality software products with attention to detail and user experience.✨</strong>
 <br/>
 <br/>
