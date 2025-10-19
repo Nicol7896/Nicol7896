@@ -11,5 +11,4 @@ Here I share my projects, reflecting everything I've discovered along the way as
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;&nbsp;
-  <img alt="Node.js Light Horizontal Logo" src="/static/logos/nodejsLight.svg" class="h-[80px] w-[267px] bg-neutral-950 p-2 dark:bg-transparent" width="267" height="80">
 </p>
