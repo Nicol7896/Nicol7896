@@ -4,17 +4,7 @@
 Here I share my projects, reflecting everything I've discovered along the way as a developer.</strong>
 <br/>
 <br/>
-<h2>⚒️ Some of my projects</h2>
-<h3>🔔 Push Protocol</h3>
-<li>I was in charge of making the official Push Protocol website a multi-language application, making the site available in Spanish and Hindi: <a href="https://push.org/" target="_blank">push.org</a></li>
-
-<h3>🐱 Petgram</h3>
-<li>Petgram is the social network where you can register, like and explore your favorite pets: <a href="https://petgram-mu-five.vercel.app/" target="_blank">Petgram</a></li>
-
-<h3>🚀 Rick & Morty App</h3>
-<li>With the Rick and Morty app, you can randomly browse through characters from the series: <a href="https://rick-and-morty-generator-9hdb.vercel.app/" target="_blank">App</a></li>
-
-<h2>🎯 Technologies & Skills</h2>
+<h2>Technologies</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />&nbsp;&nbsp;
