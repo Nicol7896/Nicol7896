@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, my name is Nicol Dayyana Cabrera Nieto @Nicol7896</h1>
 <img src="https://github.com/Nicol7896/Nicol7896/blob/main/Nicol/Nicol/Portada.png" />
-<strong>I'm a full-stack developer, a creative person, and always eager to learn something new. I love turning ideas into real-life projects.
+<strong>I'm a fronted developer, a creative person, and always eager to learn something new. I love turning ideas into real-life projects.
 Here I share my projects, reflecting everything I've discovered along the way as a developer.</strong>
 <br/>
 <br/>
